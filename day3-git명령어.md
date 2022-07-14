@@ -234,4 +234,5 @@ git log|현재 브랜치의 커밋 히스토리를 읽는다
 git reflog|현재 브랜치의 확장 히스토리를 읽는다
 git checkout commit|특정 커밋을 체크아웃하고 떨어진 HEAD상태가 된다
 git cherry-pick commit|하나의 브랜치 커밋을 다른 브랜치로 복사한다
+
 --끝--
